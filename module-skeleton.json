@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-seller-marketplace-nextjs",
+  "capabilityKey": "planned:ecommerce:seller-marketplace",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-ecommerce-seller-marketplace-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/ecommerce/nextjs/seller-marketplace.md",
+  "presentationPlan": "projects/ecommerce/nextjs/seller-marketplace.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
